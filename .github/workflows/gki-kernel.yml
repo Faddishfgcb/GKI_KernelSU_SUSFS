@@ -50,7 +50,7 @@ on:
         type: boolean
         default: false
       BBG:
-        required: false
+        required: true
         type: boolean
         default: false
 jobs:
